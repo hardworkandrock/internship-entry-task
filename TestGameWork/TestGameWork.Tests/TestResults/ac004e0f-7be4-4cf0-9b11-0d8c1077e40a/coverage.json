@@ -1,0 +1,903 @@
+{
+  "TestGameWork.dll": {
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Services\\AutorizationService.cs": {
+      "TestGameWork.Services.AutorizationService": {
+        "System.String TestGameWork.Services.AutorizationService::GenerateJwtToken(TestGameWork.Models.Player)": {
+          "Lines": {
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "97": 0
+          },
+          "Branches": []
+        },
+        "System.Void TestGameWork.Services.AutorizationService::.ctor(TestGameWork.Data.AppDbContext,Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Services\\GameService.cs": {
+      "TestGameWork.Services.GameService": {
+        "TestGameWork.DTOs.GameResponse TestGameWork.Services.GameService::MapToResponse(TestGameWork.Models.Game)": {
+          "Lines": {
+            "146": 6,
+            "147": 6,
+            "148": 6,
+            "150": 6,
+            "151": 3,
+            "153": 3,
+            "156": 6,
+            "157": 6,
+            "158": 6,
+            "159": 6,
+            "160": 6,
+            "161": 6,
+            "162": 6,
+            "163": 6,
+            "164": 6,
+            "165": 6,
+            "166": 6
+          },
+          "Branches": [
+            {
+              "Line": 150,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 150,
+              "Offset": 48,
+              "EndOffset": 64,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 156,
+              "Offset": 118,
+              "EndOffset": 120,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 156,
+              "Offset": 118,
+              "EndOffset": 123,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 4
+            },
+            {
+              "Line": 156,
+              "Offset": 130,
+              "EndOffset": 132,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 156,
+              "Offset": 130,
+              "EndOffset": 138,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 6
+            },
+            {
+              "Line": 156,
+              "Offset": 146,
+              "EndOffset": 148,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 3
+            },
+            {
+              "Line": 156,
+              "Offset": 146,
+              "EndOffset": 151,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 3
+            },
+            {
+              "Line": 156,
+              "Offset": 158,
+              "EndOffset": 160,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 3
+            },
+            {
+              "Line": 156,
+              "Offset": 158,
+              "EndOffset": 166,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 6
+            },
+            {
+              "Line": 156,
+              "Offset": 180,
+              "EndOffset": 182,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 1
+            },
+            {
+              "Line": 156,
+              "Offset": 183,
+              "EndOffset": 185,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 1
+            },
+            {
+              "Line": 156,
+              "Offset": 183,
+              "EndOffset": 188,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 156,
+              "Offset": 195,
+              "EndOffset": 197,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 1
+            },
+            {
+              "Line": 156,
+              "Offset": 180,
+              "EndOffset": 205,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 5
+            },
+            {
+              "Line": 156,
+              "Offset": 206,
+              "EndOffset": 208,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 1
+            },
+            {
+              "Line": 156,
+              "Offset": 206,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 4
+            },
+            {
+              "Line": 156,
+              "Offset": 218,
+              "EndOffset": 220,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 1
+            },
+            {
+              "Line": 156,
+              "Offset": 195,
+              "EndOffset": 226,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 6
+            },
+            {
+              "Line": 156,
+              "Offset": 218,
+              "EndOffset": 226,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 6
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<System.Collections.Generic.List`1<System.String>> TestGameWork.Services.GameService::CreateEmptyBoard(System.Int32)": {
+          "Lines": {
+            "168": 3,
+            "169": 3,
+            "170": 6,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 3,
+            "180": 3
+          },
+          "Branches": [
+            {
+              "Line": 170,
+              "Offset": 67,
+              "EndOffset": 11,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 173,
+              "Offset": 44,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 173,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 170,
+              "Offset": 67,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.String TestGameWork.Services.GameService::InitBoardState(System.Int32)": {
+          "Lines": {
+            "182": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean TestGameWork.Services.GameService::IsBoardFull(System.Collections.Generic.List`1<System.Collections.Generic.List`1<System.String>>)": {
+          "Lines": {
+            "184": 1,
+            "185": 4,
+            "186": 1,
+            "187": 6,
+            "188": 2,
+            "189": 2,
+            "190": 1,
+            "191": 1,
+            "192": 0,
+            "193": 0,
+            "194": 1
+          },
+          "Branches": [
+            {
+              "Line": 185,
+              "Offset": 89,
+              "EndOffset": 11,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 187,
+              "Offset": 62,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 189,
+              "Offset": 47,
+              "EndOffset": 49,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 189,
+              "Offset": 47,
+              "EndOffset": 54,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 187,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 185,
+              "Offset": 89,
+              "EndOffset": 91,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean TestGameWork.Services.GameService::CheckWin(System.Collections.Generic.List`1<System.Collections.Generic.List`1<System.String>>,System.String,System.Int32,System.Int32,System.Int32)": {
+          "Lines": {
+            "197": 2,
+            "198": 10,
+            "199": 4,
+            "200": 26,
+            "201": 10,
+            "202": 10,
+            "203": 10,
+            "204": 10,
+            "205": 10,
+            "206": 1,
+            "207": 9,
+            "208": 3,
+            "209": 1,
+            "210": 2
+          },
+          "Branches": [
+            {
+              "Line": 198,
+              "Offset": 125,
+              "EndOffset": 5,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 4
+            },
+            {
+              "Line": 200,
+              "Offset": 110,
+              "EndOffset": 10,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 10
+            },
+            {
+              "Line": 202,
+              "Offset": 28,
+              "EndOffset": 30,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 9
+            },
+            {
+              "Line": 202,
+              "Offset": 47,
+              "EndOffset": 49,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 9
+            },
+            {
+              "Line": 202,
+              "Offset": 66,
+              "EndOffset": 68,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 9
+            },
+            {
+              "Line": 202,
+              "Offset": 28,
+              "EndOffset": 87,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 202,
+              "Offset": 47,
+              "EndOffset": 87,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 202,
+              "Offset": 66,
+              "EndOffset": 87,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 202,
+              "Offset": 90,
+              "EndOffset": 92,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 202,
+              "Offset": 90,
+              "EndOffset": 96,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 9
+            },
+            {
+              "Line": 200,
+              "Offset": 110,
+              "EndOffset": 112,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 3
+            },
+            {
+              "Line": 198,
+              "Offset": 125,
+              "EndOffset": 127,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Boolean TestGameWork.Services.GameService::CheckLine(System.Collections.Generic.List`1<System.Collections.Generic.List`1<System.String>>,System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)": {
+          "Lines": {
+            "213": 37,
+            "214": 37,
+            "215": 44,
+            "216": 44,
+            "217": 7,
+            "218": 7,
+            "219": 7,
+            "220": 7,
+            "221": 7,
+            "222": 37,
+            "223": 37
+          },
+          "Branches": [
+            {
+              "Line": 215,
+              "Offset": 69,
+              "EndOffset": 5,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 7
+            },
+            {
+              "Line": 215,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 43
+            },
+            {
+              "Line": 215,
+              "Offset": 33,
+              "EndOffset": 35,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 43
+            },
+            {
+              "Line": 215,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 43
+            },
+            {
+              "Line": 215,
+              "Offset": 42,
+              "EndOffset": 44,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 42
+            },
+            {
+              "Line": 215,
+              "Offset": 27,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 215,
+              "Offset": 33,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 215,
+              "Offset": 37,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 215,
+              "Offset": 42,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            },
+            {
+              "Line": 215,
+              "Offset": 69,
+              "EndOffset": 71,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 37
+            }
+          ]
+        },
+        "System.Void TestGameWork.Services.GameService::.ctor(TestGameWork.Repositories.IGameRepository,TestGameWork.Repositories.IPlayerRepository,Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "15": 8,
+            "16": 8,
+            "17": 8,
+            "18": 8,
+            "19": 8,
+            "20": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Repositories\\GameRepository.cs": {
+      "TestGameWork.Repositories.GameRepository": {
+        "System.Void TestGameWork.Repositories.GameRepository::.ctor(TestGameWork.Data.AppDbContext)": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Repositories\\PlayerRepository.cs": {
+      "TestGameWork.Repositories.PlayerRepository": {
+        "TestGameWork.Models.Player TestGameWork.Repositories.PlayerRepository::GetById(System.Guid)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 39,
+              "EndOffset": 45,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void TestGameWork.Repositories.PlayerRepository::.ctor(TestGameWork.Data.AppDbContext)": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Migrations\\20250719191945_Init.cs": {
+      "TestGameWork.Migrations.Init": {
+        "System.Void TestGameWork.Migrations.Init::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0
+          },
+          "Branches": []
+        },
+        "System.Void TestGameWork.Migrations.Init::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Migrations\\20250719191945_Init.Designer.cs": {
+      "TestGameWork.Migrations.Init": {
+        "System.Void TestGameWork.Migrations.Init::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Migrations\\AppDbContextModelSnapshot.cs": {
+      "TestGameWork.Migrations.AppDbContextModelSnapshot": {
+        "System.Void TestGameWork.Migrations.AppDbContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "77": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Data\\AppDbContext.cs": {
+      "TestGameWork.Data.AppDbContext": {
+        "System.Void TestGameWork.Data.AppDbContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void TestGameWork.Data.AppDbContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<TestGameWork.Data.AppDbContext>)": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Controllers\\AutorizationController.cs": {
+      "TestGameWork.Controllers.AutorizationController": {
+        "System.Void TestGameWork.Controllers.AutorizationController::.ctor(TestGameWork.Services.IAutorizationService)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Fanto\\source\\repos\\TestGameWork\\TestGameWork\\Controllers\\GameController.cs": {
+      "TestGameWork.Controllers.GameController": {
+        "System.Guid TestGameWork.Controllers.GameController::GetUserId()": {
+          "Lines": {
+            "74": 0,
+            "75": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0,
+            "81": 0,
+            "83": 0,
+            "84": 0
+          },
+          "Branches": [
+            {
+              "Line": 77,
+              "Offset": 55,
+              "EndOffset": 57,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 77,
+              "Offset": 55,
+              "EndOffset": 68,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 83,
+              "EndOffset": 85,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 83,
+              "EndOffset": 90,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void TestGameWork.Controllers.GameController::.ctor(TestGameWork.Services.IGameService)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

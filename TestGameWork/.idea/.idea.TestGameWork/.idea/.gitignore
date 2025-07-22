@@ -1,0 +1,31 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.TestGameWork.iml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+bin/
+obj/
+[Bb]in/
+[Bb]uild/
+[Bb]uilds/
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+!packages/
+!.vscode/
+# Настройки пользователя
+.vscode/
+*.swp
+*~
+.DS_Store
